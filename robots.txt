@@ -3,4 +3,7 @@
 # Allow crawling of all content
 User-agent: *
 Disallow:
+
+
+BDurg
 # change for local git repo
